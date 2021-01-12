@@ -1,4 +1,4 @@
-"""Simulation for RFI and Flagged by AO-Flagger
+"""Simulation for RFI and Flagged by AOFlagger
 """
 import logging
 import sys
